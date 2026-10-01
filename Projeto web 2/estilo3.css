@@ -1,0 +1,36 @@
+* {
+margin: 0;
+padding: 0;
+}
+#cabecalho {
+	width: 100%;
+	height: 100px; 
+	background-color: #00a7ec; 
+	display: flex;
+} 
+#homelogo { 
+height: 80px; 
+width: 80px;
+ left: 0; 
+ 
+ margin-left: 2% ;
+ margin-top: 0.5%;
+ } 
+#navbar {
+	text-align:center ;  
+	margin: auto;
+
+}  
+.navegacao {  
+	font-size: 36px; 
+	text-decoration: none;
+	margin: 25px; 
+	color: #000000;
+ } 
+ .navegacao:hover {  
+ 	text-decoration: underline; 
+ 	text-decoration-color: #DC143C; 
+ 	text-decoration-thickness: 5px;
+
+ } 
+ 
